@@ -1,13 +1,13 @@
-08:52:32.716 [main] INFO  test.Flowtest - setUp - Launching browser
-08:52:36.444 [main] INFO  test.Flowtest - firstTestMethod - Page title is : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
-08:52:36.450 [main] INFO  test.Flowtest - tearDown - Closing browser
-08:52:36.665 [main] INFO  test.Flowtest - setUp - Launching browser
-08:52:43.641 [main] INFO  test.Flowtest - secondTestMethod - Image is present or not? true
-08:52:43.643 [main] INFO  test.Flowtest - tearDown - Closing browser
-08:52:43.874 [main] INFO  test.Flowtest - setUp - Launching browser
-08:52:47.052 [main] INFO  test.Flowtest - thirdTestMethod - Clicking on all product links
-08:52:54.092 [main] INFO  test.Flowtest - thirdTestMethod - Actual value is : Trending
-08:52:54.094 [main] INFO  test.Flowtest - tearDown - Closing browser
-08:52:54.451 [main] INFO  test.Flowtest - setUp - Launching browser
-08:52:57.432 [main] INFO  test.Flowtest - falseComparision - Fourth Test Executing..
-08:52:57.453 [main] INFO  test.Flowtest - tearDown - Closing browser
+17:29:37.786 [main] INFO  test.Flowtest - setUp - Launching browser
+17:29:42.386 [main] INFO  test.Flowtest - firstTestMethod - Page title is : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+17:29:42.430 [main] INFO  test.Flowtest - tearDown - Closing browser
+17:29:42.623 [main] INFO  test.Flowtest - setUp - Launching browser
+17:29:49.143 [main] INFO  test.Flowtest - secondTestMethod - Image is present or not? true
+17:29:49.148 [main] INFO  test.Flowtest - tearDown - Closing browser
+17:29:49.267 [main] INFO  test.Flowtest - setUp - Launching browser
+17:29:52.630 [main] INFO  test.Flowtest - thirdTestMethod - Clicking on all product links
+17:29:59.741 [main] INFO  test.Flowtest - thirdTestMethod - Actual value is : Trending
+17:29:59.744 [main] INFO  test.Flowtest - tearDown - Closing browser
+17:29:59.865 [main] INFO  test.Flowtest - setUp - Launching browser
+17:30:02.068 [main] INFO  test.Flowtest - falseComparision - Fourth Test Executing..
+17:30:02.071 [main] INFO  test.Flowtest - tearDown - Closing browser
